@@ -32,13 +32,13 @@
           
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Java" alt="Java" width="70" height="70"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg" title="Java" alt="Java" width="50" height="60"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" title="Java" alt="Java" width="50" height="70"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-plain-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-plain-wordmark.svg" title="Java" alt="Java" width="60" height="70"/>&nbsp;
-     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-plain-wordmark.svg" title="Java" alt="Java" width="60" height="70"/>&nbsp
-      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rails/rails-original-wordmark.svg" title="Java" alt="Java" width="60" height="70"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Service" alt="Java" width="70" height="70"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Java" width="50" height="60"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" title="Java" alt="Git" width="50" height="70"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-plain-wordmark.svg" title="Java" alt="MySQL" width="80" height="80"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-plain-wordmark.svg" title="Java" alt="PostgreSQL" width="60" height="70"/>&nbsp;
+     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-plain-wordmark.svg" title="Java" alt="Ruby" width="60" height="70"/>&nbsp
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rails/rails-original-wordmark.svg" title="Java" alt="Rails" width="60" height="70"/>&nbsp;
     </div>
 
 
