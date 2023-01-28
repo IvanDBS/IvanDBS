@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=IvanDBS&style=for-the-badge&color=blue" alt="" width="114"/>
   
 ---
-  
+#### 👋 Hi there! My name is Ivan. I am Ruby on Rails back backend developer, from 🇲🇩 Moldova. Welcome!
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif" width="400" height="300"/>
@@ -21,11 +21,11 @@
 
  ### :man_technologist: About me:
 
-- 🌱 I’m currently learning Ruby on Rails, since 2022
-- 👯 I’m looking for internship with future employment
+- 🌱 I’m currently learning Ruby on Rails, since 2022!
+- 👯 Looking for new projects or internship with future employment!
 - 💬 Feel free to ask me anythink!
 - 📫 How to reach me: <img src="https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=white&style=appveyor" alt="Facebook Badge"/>
-- ⚡ Hobbies: Plaing guitar on my 🎸 Fender  
+- ⚡ Hobbies: Plaing guitar on my 🎸 Fender
   
 ---
  
