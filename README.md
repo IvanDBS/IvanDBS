@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=IvanDBS&style=for-the-badge&color=blue" alt="" width="114"/>
   
 ---
-### 👋 Hi there! My name is Ivan, I am Ruby on Rails developer from 🇲🇩 Moldova🇪🇺  Welcome!
+### 👋 Hi there! My name is Ivan, I am Ruby on Rails developer from 🇲🇩 Moldova 🇪🇺  Welcome!
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif" width="400" height="300"/>
