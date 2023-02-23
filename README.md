@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning Ruby on Rails, since 2022!
 - 👯 Looking for new projects or internship with future employment!
-- 💬 Feel free to ask me anythink!
+- 💬 Feel free to ask me anything!
 - 📫 How to reach me: <img src="https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=white&style=appveyor" alt="Facebook Badge"/>
 - ⚡ Hobbies: Plaing guitar on my 🎸 Fender
   
