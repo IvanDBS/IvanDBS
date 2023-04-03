@@ -9,8 +9,8 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.facebook.com/profile.php?id=100004105985310">
-     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=Facebook&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/ivan-teaca-805778264/">
+     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logoColor=white&style=for-the-badgee" alt="LinkedIn Badge"/>
   </a>
 </div>
 
