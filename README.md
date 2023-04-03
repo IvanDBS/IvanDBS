@@ -10,7 +10,7 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ivan-teaca-805778264/">
-     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logoColor=white&style=for-the-badgee" alt="LinkedIn Badge"/>
+     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
 </div>
 
