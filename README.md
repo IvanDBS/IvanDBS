@@ -10,7 +10,7 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ivan-teaca-805778264/">
-     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logoColor=white&style=for-the-badge" alt="" width="114"/>
   </a>
 </div>
 
@@ -29,38 +29,53 @@
  ### :man_technologist: About me:
 
 - 🌱 I’m currently practicing Ruby / Ruby on Rails, since 2022!
-- 👯 Looking for new projects or internship with future employment!
-- 💬 Feel free to ask me anything!
-- 📫 How to reach me: <img src="https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=white&style=appveyor" alt="Facebook Badge"/>
-- ⚡ Hobbies: Plaing guitar on my 🎸 Fender
+- ⚡ Hobbies: 
+  - 🎸 Playing guitar on my Fender
+  - 🎮 Casual Dota 2 player
+  - 🚁 FPV drone pilot
   
 ---
  
-          
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Service" alt="Java" width="70" height="70"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Java" width="50" height="60"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" title="Java" alt="Git" width="50" height="70"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-plain-wordmark.svg" title="Java" alt="MySQL" width="80" height="80"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-plain-wordmark.svg" title="Java" alt="PostgreSQL" width="60" height="70"/>&nbsp;
-     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-plain-wordmark.svg" title="Java" alt="Ruby" width="60" height="70"/>&nbsp
-      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rails/rails-original-wordmark.svg" title="Java" alt="Rails" width="50" height="70"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" title="Java" alt="HTML" width="50" height="70"/>&nbsp;
-     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain-wordmark.svg" title="Java" alt="NodeJS" width="70" height="70"/>&nbsp
-      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-plain-wordmark.svg" title="Java" alt="VSCode" width="50" height="60"/>&nbsp;
-    </div>
+### 🛠 Technical Stack:
+
+#### Core:
+- 💎 Ruby & Ruby on Rails
+- 🐘 PostgreSQL, SQLite
+- 🎯 Git & GitHub
+- 📦 Docker
+- 🌐 RESTful APIs
+
+#### Frontend:
+- 📄 HTML5 & CSS3
+- 🎪 Bootstrap 5
+- ⚡ JavaScript
+
+#### Testing:
+- 🧪 RSpec
 
 
 ---
 
 
-### :fire: My Stats :
-    
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IvanDBS&theme=blood&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanDBS)](https://github.com/anuraghazra/github-readme-stats)
-    
-    
+### :fire: My Stats:
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanDBS&layout=compact&theme=dark"/>
+</div>
+
+
+---
+
+
+### 📫 Feel free to ask me anything:
+<div align="center">
+  <a href="mailto:ivan.teaca@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://t.me/IvDBS">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</div>    
     
 </div>
